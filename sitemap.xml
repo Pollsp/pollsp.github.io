@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aiymt.love/posts/2023918d.html</loc>
+    
+    <lastmod>2023-09-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://aiymt.love/categories/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -20,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://aiymt.love/box/gallery/index.html</loc>
+    <loc>https://aiymt.love/box/animation/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -38,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://aiymt.love/box/animation/index.html</loc>
+    <loc>https://aiymt.love/box/gallery/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -65,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://aiymt.love/site/census/index.html</loc>
+    <loc>https://aiymt.love/life/music/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -83,33 +92,6 @@
   </url>
   
   <url>
-    <loc>https://aiymt.love/personal/about/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiymt.love/life/music/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://aiymt.love/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://aiymt.love/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
@@ -119,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://aiymt.love/personal/love/index.html</loc>
+    <loc>https://aiymt.love/site/census/index.html</loc>
     
     <lastmod>2023-03-21</lastmod>
     
@@ -137,9 +119,27 @@
   </url>
   
   <url>
-    <loc>https://aiymt.love/posts/2013454d.html</loc>
+    <loc>https://aiymt.love/personal/love/index.html</loc>
     
-    <lastmod>2022-10-23</lastmod>
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aiymt.love/personal/about/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://aiymt.love/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-21</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -173,6 +173,13 @@
 
   
   <url>
+    <loc>https://aiymt.love/tags/Solidity/</loc>
+    <lastmod>2023-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://aiymt.love/tags/Markdown/</loc>
     <lastmod>2023-09-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -187,6 +194,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>https://aiymt.love/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
+    <lastmod>2023-09-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>https://aiymt.love/categories/%E6%BC%94%E7%A4%BA/</loc>
